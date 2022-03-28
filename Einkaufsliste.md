@@ -22,14 +22,5 @@
 |  18   | Leinwand          | Eigenbau      |              |        30,00 € | Holz Latten + Rigipsplatten + Spachtelmasse + Farbe          |
 |  19   | Lautsprecher      | eBay          |              |       100,00 € |                                                              |
 |  20   | Greenscreen       | Eigenbau      |              |       150,00 € | https://www.molton-markt.de/molton-nach-farben/molton-gruen/ |
-|  21   |                   |               |              |                |                                                              |
-|  22   |                   |               |              |                |                                                              |
-|  23   |                   |               |              |                |                                                              |
-|  24   |                   |               |              |                |                                                              |
-|  25   |                   |               |              |                |                                                              |
-|  26   |                   |               |              |                |                                                              |
-|  27   |                   |               |              |                |                                                              |
-|  28   |                   |               |              |                |                                                              |
-|  29   |                   |               |              |                |                                                              |
-|  30   |                   |               |              |                |                                                              |
-|       | Summe             |               |              | **2.013,05 €** |                                                              |
+|  21   | 3D Kamera         | Stereolabs    | ZED 2i       |       561,36 € | https://store.stereolabs.com/products/zed-2i                 |
+|       | Summe             |               |              | **2.574,41 €** |                                                              |
