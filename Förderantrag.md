@@ -43,12 +43,12 @@ Mit dem Projekt Holodeck sollen die Grenzen der analogen und digitalen Welt vers
 
 Weiterhin bereitet es Spaß virtuell neue Orte zu Erkunden, Sportveranstaltungen zu besuchen, zu Spielen und das Internet auf eine neue Art zu erleben.
 
-## Ziel/Zielgruppe
 Gemäß unserer Satzung möchten wir uns kreativ und kritisch mit Technologien auseinandersetzen. VR, AR und MR sind keine neuen Technologien, aber nun so erschwinglich wie nie. Es wird vermutet, dass in Zukunft ein virtuelles Leben so normal ist wie Social Media heute.
 
 Insbesondere das Metaverse ist kritisch zu betrachten. Meta hat die Vernetzung der Welt als Geschäftsmodell und bewirkt damit sowohl Gutes als auch Schlechtes. Als Verein wollen wir erforschen wie es um Sucht, Datenschutz und Cyber Mobbing steht. VR hat das Potenzial unser Verhalten zu beeinflussen und Erkenntnisse zu gewinnen. Die Medizin kann dadurch Angststörungen behandeln und an dem Vermögen zur räumlichen Orientierung eine frühzeitige Alzheimer Erkrankung detektieren. Wir selbst können Umgebungen programmieren um etwa durch Serious Games zu lernen.
 
-Mit dem Holodeck sollen all jene Personen angesprochen werden, die sich kreativ, kritisch oder spielerisch mit VR, AR und MR auseinander setzen wollen.
+## Ziel/Zielgruppe
+Personen die sich kreativ, kritisch oder spielerisch mit VR, AR und MR auseinander setzen wollen.
 
 ## Beschreibung / Durchführung
 Für das Holodeck sollen eine VR Brille (Oculus Quest 2), ein Tablett (Apple iPad Pro 11") und eine 3D Kamera (Stereolabs ZED 2i) als Herzstücke der Projekts angeschafft werden. Der dafür vorgesehene Raum soll mit einer Korkwand, einem Whiteboard, einer Leinwand, Lautsprechern und der Möglichkeiten alle Geräte damit zu verbinden ausgestattet werden. Anschließend folgt die Einrichtung von Vereinsaccounts auf den verschiedenen Plattformen die zum Betrieb erforderlich sind. Es ist geplant unterschiedliche Workshops zu dem Holodeck anzubieten um etwa das Zeichnen auf dem Tablett oder die Nutzung von der 3D Kamera zu erlernen. Insbesondere die VR Brille lädt dazu ein, eine monatliche, regelmäßige und offene VR Spielrunde zu etablieren um einen ersten Eindruck zu gewinnen.
@@ -61,3 +61,6 @@ Für das Holodeck sollen eine VR Brille (Oculus Quest 2), ein Tablett (Apple iPa
 
 ## IBAN
 DE52 4786 0125 1226 2315 00
+
+# Durch wen und wie wird das Projekt finanziell unterstützt?
+Es gibt keine weitere Unterstützung.
