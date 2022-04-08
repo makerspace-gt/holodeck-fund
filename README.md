@@ -1,96 +1,229 @@
-# Förderantrag 
+# 1. Basisdaten 
 
-## Antragsteller / Organisation
-Makerspace Gütersloh e.V.
+## 1.1. Antragsdatum
 
-## Ansprechpartner
-Michael Prange
+## 1.2. 1.2 Haben Sie im Vorfeld geprüft, ob Sie für das Mikroförderprogramm antragsberechtigt sind und können dies bestätigen?
+- [x] Ja, ich bin antragsberechtigt
 
-## Straße
-Bogenstraße 1-8
+## 1.3. Bitte geben Sie einen Titel für Ihr Projekt an.
+Holodeck
 
-## PLZ Ort
+## 1.4. In welchem Zeitraum soll das Projekt durchgeführt werden?
+- Beginn: 13.06.2022
+- Ende: 12.12.2022
+
+## 1.5. Welchen der beiden Schwerpunkte des Programms verfolgen Sie mit Ihrem Projekt?
+- [ ] Engagement und Ehrenamtsstrukturen stärken
+- [x] Innovative Nachwuchsgewinnung
+- [ ] Anerkennungsformate erproben
+- [ ] Beteiligungsmöglichkeiten schaffen
+
+## 1.6. 1.6 Bitte geben Sie hier den Hauptdurchführungsort Ihres Projektes an.
 33330 Gütersloh
 
-## Telefax
+## 1.7. 1.7 Bitte geben Sie bei Bedarf weitere Durchführungsorte an
 
+## 1.8. Beantragen Sie einen vorzeitigen Maßnahmebeginn?
+- [ ] Ja
+- [x] Nein
 
-## E-Mail-Adresse
-michael@makerspace-gt.de
+# 2. Antragstellende Organisation
 
-## Seit wann existiert die Organisation?
-2018
+## 2.1. Antragstellende Organisation
 
-## Rechtsform
-gemeinnütziger, eingetragener Verein
+### Antragstellende Organisation
+Makerspace Gütersloh  
+c/o Die Weberei - Bürgerkiez gGmbH
 
-## Welchen Zweck verfolgt die Organisation?
-Förderung von Wissenschaft, Forschung und Bildung, sowie der Kunst und Kultur
+### Anschrift
+Bogenstraße 1-8
+33330 Gütersloh
 
-## Jahresbudget der Organisation?
-12.900 € (inkl. 6.000 € Förderungen)
+### Rechtsform
+e.V.
 
-## für das Jahr
-2021
+### E-Mail-Adresse
+info@makerspace-gt.de
 
-## Hat Ihre Organisation bereits einen Förderantrag anderweitig gestellt?
-Nein
+### Webseite
+http://makerspace-gt.de
 
-## Projektbeschreibung
-In unserem Makerspace bieten wir verschiedenen Arbeitsbereiche in denen Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Als Prototypen Werkstätten unterstützen sie die Gründer von Morgen. Derzeit beobachten wir eine Disruption der Wirtschaft hin zu New Work und den Möglichkeiten der digitalen und virtuellen Welt. Dies verspricht kürzere Entwicklungszeiten, kollaborative Zusammenarbeit und neue Märkte.
+### Beschreibung der Organisation
+Der Makerspace Gütersloh betreibt eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und interessierte Personen dazu sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Unserer Engagierten haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten die sie alleine nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden.
 
-Mit dem Projekt Holodeck sollen die Grenzen der analogen und digitalen Welt verschwimmen. Es soll eine kreative Arbeitsumgebung eingerichtet werden, um die eigenen Gedanken aufzuzeichnen und festzupinnen, erste digitale Prototypen in Augmented Reality (AR) zu sehen oder Objekte 3D zu scannen, mit Virtual Reality (VR) in andere Welten einzutauchen und durch Mixed Reality (MR) selbst Teil dieser Welt zu werden. Das Holodeck ist eine passende Ergänzung zu der Textil- und Möbelwerkstatt um vorher eine einfachere Planung zu ermöglichen.
+Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen kleinen Bereich mit Sofa, Beamer und Presenter, um Vorträge zu halten oder sich gemütlich zu treffen. Einmal im Monat veranstalten wir ein Repair Café in unserer Stadtbibliothek.
 
-Weiterhin bereitet es Spaß virtuell neue Orte zu Erkunden, Sportveranstaltungen zu besuchen, zu Spielen und das Internet auf eine neue Art zu erleben.
+### 1. Ansprechpartner/in
+Michael Prange (1. Ansprechpartner)
 
-Gemäß unserer Satzung möchten wir uns kreativ und kritisch mit Technologien auseinandersetzen. VR, AR und MR sind keine neuen Technologien, aber nun so erschwinglich wie nie. Es wird vermutet, dass in Zukunft ein virtuelles Leben so normal ist wie Social Media heute.
+### 2. Ansprechpartner/in
+Keinen Ansprechpartner/in ausgewählt
 
-Insbesondere das Metaverse ist kritisch zu betrachten. Meta hat die Vernetzung der Welt als Geschäftsmodell und bewirkt damit sowohl Gutes als auch Schlechtes. Als Verein wollen wir erforschen wie es um Sucht, Datenschutz und Cyber Mobbing steht. VR hat das Potenzial unser Verhalten zu beeinflussen und Erkenntnisse zu gewinnen. Die Medizin kann dadurch Angststörungen behandeln und an dem Vermögen zur räumlichen Orientierung eine frühzeitige Alzheimer Erkrankung detektieren. Wir selbst können Umgebungen programmieren um etwa durch Serious Games zu lernen.
+## 2.2 Bitte geben Sie die zeichnungsberechtigte Person an:
+| Name           | Funktion | Berechtigung                       |
+| -------------- | -------- | ---------------------------------- |
+| Michael Prange | Vorstand | Gemeinsame Vertretungsberechtigung |
+| Uta Rassow     | Vorstand | Gemeinsame Vertretungsberechtigung |
 
-## Ziel/Zielgruppe
-Personen die sich kreativ, kritisch oder spielerisch mit VR, AR und MR auseinander setzen wollen.
+## 2.3. Bitte geben Sie die Bankverbindung an.
+| Kontoinhaber              | IBAN                        |
+| ------------------------- | --------------------------- |
+| Makerspace Gütersloh e.V. | DE52 4786 0125 1226 2315 00 |
 
-## Beschreibung / Durchführung
-Für das Holodeck sollen eine VR Brille (Oculus Quest 2), ein Tablett (Apple iPad Pro 11") und eine 3D Kamera (Stereolabs ZED 2i) als Herzstücke der Projekts angeschafft werden. Der dafür vorgesehene Raum soll mit einer Korkwand, einem Whiteboard, einer Leinwand, Lautsprechern und der Möglichkeiten alle Geräte damit zu verbinden ausgestattet werden. Anschließend folgt die Einrichtung von Vereinsaccounts auf den verschiedenen Plattformen die zum Betrieb erforderlich sind. Es ist geplant unterschiedliche Workshops zu dem Holodeck anzubieten um etwa das Zeichnen auf dem Tablett oder die Nutzung von der 3D Kamera zu erlernen. Insbesondere die VR Brille lädt dazu ein, eine monatliche, regelmäßige und offene VR Spielrunde zu etablieren um einen ersten Eindruck zu gewinnen.
+## 2.4 Wie viele hauptamtliche Mitarbeiter:innen (Vollzeitäquivalente) werden in Ihrer Organisation für ihre Tätigkeit bezahlt?
+- [x] Rein ehrenamtlich getragen
+- [ ] 1 Hauptamtlicher
+- [ ] 2 oder mehr Hauptamtliche
 
-## Gesamtkosten des Projektes
-2.575 €
+## 2.5 Wie viele Ehrenamtliche sind in Ihrer Organisation aktiv?
+25 Personen
 
-## Erwartete Förderung
-2.300 €
+# 3. Ausgaben- und Finanzierungsplan
+| **Ausgaben**                            |            |          |                                                              |
+| --------------------------------------- | ---------: | -------- | ------------------------------------------------------------ |
+| **3.1 Sachausgaben**                    | 2.346,30 € | 100,00 % |                                                              |
+| Apple iPad Pro 11"                      |   879,00 € |          | https://www.apple.com/de/shop/buy-ipad/ipad-pro              |
+| Apple Pencil 2                          |   135,00 € |          | https://www.apple.com/de/shop/select-apple-pencil            |
+| Paper like Folie                        |    12,99 € |          | https://smile.amazon.de/dp/B087PCM5M9                        |
+| Hülle                                   |    17,99 € |          | https://smile.amazon.de/dp/B08VRF64LH                        |
+| USB-C Hub                               |    28,99 € |          | https://smile.amazon.de/dp/B07RRPS5NT                        |
+| gebrauchtes Whiteboard                  |    30,00 € |          |                                                              |
+| gebrauchte Korkwand                     |    20,00 € |          |                                                              |
+| Oculus Quest 2                          |   403,99 € |          | https://www.proshop.de/VR/Oculus-Quest-2-128-GB/2991572      |
+| Link Cable                              |    22,09 € |          | https://smile.amazon.de/dp/B098399X91                        |
+| Case                                    |    44,95 € |          | https://smile.amazon.de/dp/B07SRLXN3T                        |
+| Power Bank                              |    39,94 € |          | https://smile.amazon.de/dp/B08ML9QZBD                        |
+| selbstgebauter Greenscreen              |   150,00 € |          | https://www.molton-markt.de/molton-nach-farben/molton-gruen/ |
+| Stereolabs ZED 2i Stereo Camera         |   561,36 € |          | https://store.stereolabs.com/products/zed-2i                 |
+| **3.2 Honorarausgaben**                 |     0,00 € | 0,00 %   |                                                              |
+| **3.3 Honorarausgaben mit Werkvertrag** |     0,00 € | 0,00 %   |                                                              |
+| **Gesamtausgaben**                      | 2.346,30 € |          |                                                              |
+|                                         |            |          |                                                              |
+| **Finanzierung**                        |            |          |                                                              |
+| **3.1 Einnahmen**                       |   246,30 € | 10,50 %  |                                                              |
+| Eigenmmittel                            |   246,30 € |          |                                                              |
+| **3.2 Zuwendung DSEE**                  | 2.100,00 € | 89,50 %  |                                                              |
+| **Gesamtfinanzierung**                  | 2.346,30 € |          |                                                              |
 
-## IBAN
-DE52 4786 0125 1226 2315 00
+# 4. Beschreibung des Vorhabens
 
-# Durch wen und wie wird das Projekt finanziell unterstützt?
-Es gibt keine weitere Unterstützung.
+## 4.1 Bitte fügen Sie eine Kurzbeschreibung zum Projekt ein:
+Wir haben die Vision als nicht-kommerzielle Hightech-Werkstatt die Zivilgesellschaft zu stärken. Bei uns geht es ums Machen, jedoch ist dies ohne eine Planung schnell frustrierend. Das Holodeck soll ein kreativer Arbeitsbereich werden. Whiteboard, Korkwand und iPad helfen dabei die eigenen Gedanken aufzuzeichnen, Objekte 3D zu scannen und erste digitale Prototypen zu erstellen. Es ist eine Ergänzung zur Textil- und Möbelwerkstatt, um ein schnelles designen zu ermöglichen und einen immersiven Eindruck von der eigenen Idee zu bekommen.
 
-# weitere Informationen
+Wir möchten damit für all jene Engagierten und Interessierten attraktiv werden, die das klassische Handwerk mit dem digitalen Zeitalter verbinden möchten um einfach kreativ zu werden und etwas zu erschaffen.
 
-> Bitte beschreiben Sie wie viele Ehrenamtliche sich mit welchem Zeitaufwand an Ihrem Projekt „Holodeck“ beteiligen/engagieren werden
+## 4.2 Welche Ziele wollen Sie mit dem Projekt erreichen?
+1. Einrichtung einer kreativen Arbeitsumgebung mit Möglichkeiten für VR, AR & MR
+2. Innovative Nachwuchsgewinnung für die Makerszene von den zwei Seiten
+   - klassische Handwerker, welche die Vorzüge digitaler Planung noch nicht erlebt haben
+   - Digital-Natives, welche sich nicht zutrauen selbst etwas zu bauen
+3. Fit machen des Vereins für die Arbeit mit digitalen Werkzeugen bei der Veranstaltungsorganisation und Öffentlichkeitsarbeit
 
-Die Einrichtung von Projekten werden bei uns in Basteltagen geschätzt, wobei ein Basteltag Sonntags von 11 bis 17 Uhr meint. Die Anbringung von Korkwand, Whiteboard, Leinwand und Lautsprechern benötigt drei Ehrenamtliche und ein bis zwei Basteltage. Die Einrichtung von Vereinsaccounts und die Möglichkeiten alle Geräte untereinander zu verbinden benötigt zwei Ehrenamtliche und vermutlich zwei bis drei Basteltage. Da hier auch etwas Software eingerichtet werden muss lässt sich das schwer abschätzen.
-Für den Betrieb des Holodecks haben sich vier Ehrenamtliche gefunden die Workshops veranstalten und interessierte Personen in die Geräte einweisen. Bisher haben wir Workshops und andere regelmäßige Events, wie unsere Nähbar, immer mir einer Länge von drei Stunden durchgeführt und wollen das für das Holodeck so fortführen.
+## 4.3 Mit welchen Maßnahmen wollen Sie die Ziele erreichen?
+- Einrichten der Geräte, sodass sie in einem "ready to use" Zustand sind und Benutzerprofile für Gäste angelegt sind
+- Veranstalten von Workshops zu den Themen
+  - Arbeiten mit Digitalen Werkzeugen
+  - Einsetzen von Kreativitätstechniken
+- Etablieren einer monatlichen VR Spielerunde als niederschwellige und regelmäßige Einstiegsmöglichkeit
+- Kontakt zu Schulen, Künstlern, Vereinen und Geflüchteten herstellen, um auf die Möglichkeiten des Holodecks hinzuweisen
+- Einrichten unserer Nextcloud für die Organisation und Öffentlichkeitsarbeit
 
-Zusammengefasst ist es ein Zeitaufwand von 42-72 Arbeitsstunden aufgeteilt auf drei bis fünf Personen für die Einrichtung des Holodecks. Hinzu kommt ein Zeitaufwand von monatlich 3-6 Stunden für Workshops und Events bei denen sich mindestens vier Personen in der Organisation abwechseln.
+## 4.4 In welcher Form sind Ehrenamtliche in die Durchführung des Projekts eingebunden?
+Die Vereinsmitglieder beraten gemeinsam, wie die Geräte am besten eingerichtet werden können, damit sie dauerhaft in einem "ready to use" Zustand sind. Anschließend werden weitere Interessierte mit den Geräten vertraut gemacht. So baut sich nach und nach eine immer größer werdende Gruppe auf, welche die Workshops und die regelmäßigen Spielerunden als Mitmachaktionen organisieren.
 
+Um eine Demotivation der Ehrenamtlichen zu vermeiden gelten bei uns zwei Leitsprüche:
+1. "Wer macht hat Recht" und darf nur von anderen kritisiert werden die mitmachen
+2. Wenn du etwas anders machen würdest stell dir vorher die Frage "Kannst du mit dem aktuellen Zustand leben?"
+   - falls ja: lass es so
+   - falls nein: sprich mit der Person die es so gemacht hat und ändert es gemeinsam
 
-> bitte reichen Sie uns noch einen Kostenplan zum Projekt ein
+## 4.5 Wie viele Engagierte können Sie mit Ihrem Projekt erreichen?
+- [x] bis 50
+- [ ] mehr als 50
+- [ ] Mehr als 100
 
-Unsere geplante Einkaufliste können Sie jederzeit online einsehen:
-https://github.com/makerspace-gt/holodeck-fund/blob/main/Einkaufsliste.md
+## 4.6 An welche Personengruppen richtet sich Ihr Projekt?
+- [x] Junge Menschen
+- [ ] Ältere Menschen
+- [ ] Menschen mit Migrationsgeschichte
+- [ ] Menschen mit Behinderung
+- [x] Bildungsbenachteiligte
+- [x] Sonstige: Personen, die sich kreativ, kritisch oder spielerisch mit VR, AR und MR auseinander setzen wollen.
 
-Die aktuelle Version finden Sie als PDF im Anhang.
+## 4.7 Richten Sie sich mit Ihrem Projekt an Personengruppen, die einen erschwerten Zugang zum Engagement haben?
+- [ ] Ja
+- [ ] Teilweise
+- [x] Nein
 
-Die laufenden Kosten (Programme, Verschleißteile, ggf. Abonnements) werden durch Nutzungsgebühren gedeckt. Etwa 1 € pro Nutzungsstunde VR Brille oder 2 € pro Woche 3D-Scan. Auch Personen die keine Mitglieder in unserem Verein sind dürfen die Geräte unter Aufsicht nutzen und zahlen dafür pauschal die doppelten Nutzungskosten.
+## 4.8 In welchem Themenbereich engagieren sich die Ehrenamtlichen Ihrer Organisation?
+- [x] Außerschulische Jugend- oder Bildungsarbeit für Erwachsene
+- [ ] Berufliche Interessenvertretung außerhalb des Betriebs
+- [x] Freizeit und Geselligkeit
+- [ ] Gesundheitsbereich
+- [ ] Justiz oder Kriminalitätsprobleme
+- [ ] Kirchlicher oder religiöser Bereich
+- [ ] Kultur und Musik
+- [ ] Politik und politische Interessenvertretung
+- [ ] Schule oder Kindergarten
+- [ ] Sozialer Bereich
+- [ ] Sport und Bewegung
+- [ ] Umwelt, Naturschutz oder Tierschutz
+- [ ] Unfall- oder Rettungsdienst oder freiwillige Feuerwehr
+- [x] Sonstiger Bereich: Handwerk
 
+# 5. Projektunterlagen
 
-> wie viele Menschen sprechen Sie mit Ihrem Projekt an - Zielgruppe - ca. Erwartung?
+# 6. Erklärungen zum Einreichen
 
-Unter unseren Mitgliedern und im Kreis der Personen die dem Makerspace Nahestehen haben wir ca. 20 Personen die bereits Interesse an dem Projekt bekundet haben.
-Wie viele wir nun mit aktiver Öffentlichkeitsarbeit nach Corona weiterhin gewinnen können ist schwer abzuschätzen. Bei unserem monatlichen Repair Café finden sich immer wieder 1-2 Personen die Interesse an dem Konzept des Makerspace finden.
+## 6.1 Bitte bestätigen Sie die Erklärungen/Informationen zum Antrag
+- [x] Ich erkläre namens der Antragstellerin/des Antragstellers, dass
+  - [x] die Angaben in dem Antrag auf Gewährung einer Zuwendung bzw. von Zuschüssen vollständig und richtig sind und durch entsprechende Unterlagen belegt werden können; die näheren Bestimmungen der Richtlinie sind zur Kenntnis genommen und bekannt, mit ihnen ist die Antragstellerin/der Antragsteller einverstanden.
+  - [x] der Finanzierungsplan nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit aufgestellt wurde, keine weiteren Mittel als im Finanzierungsplan angegeben beantragt wurden, außer den im Finanzierungsplan angegebenen Eigen- und/oder Drittmitteln keine weiteren Mittel zur Verfügung stehen, insbesondere nicht bereits eine gesetzliche oder sonstige öffentlich-rechtliche Finanzierungsregelung für die beabsichtigte Maßnahme besteht, und Änderungen des Finanzierungsplans der DSEE umgehend mitgeteilt werden.
+  - [x] der Eigenanteil an der Finanzierung des Vorhabens und die Gesamtfinanzierung des Vorhabens vorbehaltlich der Bewilligung dieses Antrages gesichert sind. Mir ist bekannt, dass eine nachträgliche Verringerung der Eigen- und/oder Drittmittel zu einer entsprechenden Reduzierung oder – sollte die Gesamtfinanzierung nicht mehr gewährleistet sein – unter Umständen zu einer vollständigen Rückforderung der bewilligten Fördermittel führen kann.
+  - [x] mit dem beantragten Vorhaben noch nicht begonnen wurde und auch vor Erteilung des Zuwendungsbescheides nicht begonnen wird, sofern keine schriftliche Genehmigung zum vorzeitigen Maßnahmenbeginn erteilt wurde.
+  - [x] mir bekannt ist, dass nur projektbezogene Ausgaben, die im Bewilligungszeitraum entstanden und kassenwirksam geworden sind, förderfähig sein können und innerhalb des Bewilligungszeitraums nicht abgerufene Mittel verfallen.
+  - [x] eine ordnungsgemäße Geschäftsführung gewährleistet ist, die insbesondere eine eindeutige Zuordnung aller projektbezogenen Einnahmen und Ausgaben sicherstellt und eine jederzeitige Prüfung des Bundesrechnungshofs und der DSEE ermöglicht.
+  - [x] mir bekannt ist, dass ich der bewilligenden Stelle (DSEE) unverzüglich alle Änderungen mitzuteilen habe, die Auswirkungen auf die Zuwendung haben können (subventionserhebliche Tatsachen). Dies betrifft insbesondere jede Änderung der Rechtsverhältnisse der Antragstellerin/des Antragstellers, des Verwendungszwecks, des Projektbeginns, des Projektinhalts sowie wesentliche Abweichungen vom Finanzierungsplan.
+  - [x] ich Zahlungsansprüche aus bestandskräftigen Zuwendungsbescheiden weder abgetreten oder verpfändet habe, noch abtreten oder verpfänden werde bzw. Ansprüche aus Zuwendungsbescheiden auch in keiner anderen Weise als Sicherheit zur Verfügung gestellt habe bzw. stellen werde.
+  - [x] ich mit der Speicherung und Verarbeitung meiner personenund betriebsbezogenen Daten einverstanden bin.
+  - [x] Mir ist bekannt, dass es sich sowohl um für die Bearbeitung des Antrages notwendige Daten handelt als auch um Daten, die ausschließlich statistischen Zwecken dienen, und die erhobenen Daten auch an Dritte weitergegeben werden können. Der Veröffentlichung und Weitergabe folgender Daten - Name und Sitz der Antragstellerin/des Antragstellers, Inhalt des Vorhabens und Zuwendungszweck sowie Dauer und Höhe der Förderung - stimme ich zu. Diese Zustimmung gilt insbesondere im Rahmen der Beantwortung parlamentarischer Anfragen, Petitionen und Aktenvorlagen an Seite 12 von 14 Untersuchungsausschüsse sowie im Rahmen sonstiger Auskunftsersuchen von Abgeordneten des Bundestages.
+  - [x] ich mich damit einverstanden erkläre und in der Lage bin, erforderliche Daten elektronisch an die DSEE als bewilligende Stelle zu übertragen und elektronische Dokumente unter der im Antragsformular angegebenen E-Mail-Adresse zu empfangen.
+  - [x] der Pflicht zur Nutzung der von der DSEE zur finanziellen und materiellen Steuerung sowie zur fachlich inhaltlichen Steuerung (Monitoringverfahren) zur Verfügung gestellten Online-Verfahren nachgekommen wird. Dies gilt für das Antragsverfahren, die Verfahren zum Belegnachweis, den Mittelabruf und den Verwendungsnachweis sowie das Monitoringverfahren.
 
+## 6.2 Mir ist bekannt, dass
+- [x] die nachfolgend unter Buchstaben a – h bezeichneten Angaben, Beschreibungen, Darstellungen, Begründungen und Erklärungen in dem Förderantrag sowie in den beigefügten Anlagen und nachzureichenden Unterlagen subventionserhebliche Tatsachen im Sinne des § 264 Strafgesetzbuch (StGB) in Verbindung mit § 2 des Subventionsgesetzes des Bundes (SubvG) sind:
+  - [x] Angaben zur antragstellenden Organisationeinschließlich Angaben zur Rechtsform sowie zu gesellschaftsrechtlichen und vertraglichen Beziehungen,
+  - [x] Angaben zum Vorhaben,
+  - [x] die Beschreibung des Förderkonzepts (),
+  - [x] die Angaben zu Ausgaben und Einnahmen im Finanzierungsplan e) die Erklärung zum Maßnahmenbeginn,
+  - [x] die Erklärung über die Vorsteuerabzugsberechtigung,
+  - [x] die Erklärung zum Besserstellungsverbot,
+  - [x] die Angaben in den Berichten und Verwendungsnachweisen, welche die zweckentsprechende Verwendung der Zuwendung betreffen;
+- [x] Rechtsgeschäfte zwischen Zuwendungsempfänger und Dritten, die im Ergebnis zu einer Reduzierung des zu erbringenden Eigenanteils des Zuwendungsempfängers oder Dritter führen (z. B. Scheingeschäfte, Scheinrechnungen), subventionserhebliche Tatsachen sind (betreffen Angaben zum Finanzierungsplan und dem Zuwendungsempfänger und/oder Dritten insoweit ebenfalls eine Mitteilungsverpflichtung obliegt.
+- [x] die Festlegung des Zuwendungszwecks in dem aufgrund dieses Antrags erteilten Zuwendungsbescheid als eine Verwendungsbeschränkung im Sinne des § 264 Abs. 1 Nr. 2 StGB anzusehen ist. Die Zuwendung darf daher nur zur Erfüllung des im Zuwendungsbescheid bestimmten Zwecks verwendet werden.
+- [x] Subventionsbetrug strafbar ist und ich mich gemäß § 264 Abs. 1 StGB strafbar mache, wenn ich
+  - [x] einer für die Bewilligung einer Subvention zuständigen Behörde oder einer anderen in das Subventionsverfahren eingeschalteten Stelle oder Person (Subventionsgeber) über   subventionserhebliche Tatsachen für mich oder einen anderen unrichtige oder unvollständige Angaben mache, die für mich oder den anderen vorteilhaft sind (§ 264 Abs. 1 Nr. 1 StGB),
+  - [x] einen Gegenstand oder eine Geldleistung, deren Verwendung durch Rechtsvorschriften oder durch den Subventionsgeber im Hinblick auf eine Subvention beschränkt ist, entgegen der Verwendungsbeschränkung verwende (§ 264 Abs. 1 Nr. 2 StGB),
+  - [x] den Subventionsgeber entgegen den Rechtsvorschriften über die Subventionsvergabe über subventionserhebliche Tatsachen in Unkenntnis lasse (§ 264 Abs. 1 Nr. 3 StGB) oder
+  - [x] in einem Subventionsverfahren eine durch unrichtige oder unvollständige Angaben erlangte Bescheinigung über eine Subventionsberechtigung oder über subventionserhebliche Tatsachen gebrauche (§ 264 Abs. 1 Nr. 4 StGB);
+- [x] es für eine Strafbarkeit nach § 264 StGB nicht erforderlich ist, dass die Zuwendung für mich selbst beantragt wird oder dass die beantragte Zuwendung tatsächlich gewährt wird.
+- [x] ich gemäß § 3 Abs.1 SubvG verpflichtet bin, dem Subventionsgeber unverzüglich alle Tatsachen mitzuteilen, die der Bewilligung, Gewährung, Weitergewährung, Inanspruchnahme oder dem Belassen der Subvention oder des Subventionsvorteils entgegenstehen oder für die Rückforderung der Subvention oder des Subventionsvorteils erheblich sind.
+- [x] Ich versichere, dass über das Vermögen der Antragstellerin/des Antragstellers, eines Gesellschafters oder eines Mitgliedes eines Vertretungsorganes
+  - [x] kein Insolvenzverfahren eröffnet worden ist und
+  - [x] kein Antrag auf Eröffnung des Insolvenzverfahrens mangels Masse in den vergangenen drei Jahren abgewiesen worden ist und die Antragstellerin / der Antragsteller, einzelne Gesellschafter oder Mitglieder eines Vertretungsorgans keine Vermögensauskunft gem. § 802c Zivilprozessordnung oder § 284 Abgabeordnung abgegeben haben oder eine Verpflichtung dazu besteht.
 
-> werden die Workshops bzw. die regelmäßigen offenen Spielrunden von Ehrenamtlichen durchgeführt und wie viele Teilnehmer erwarten Sie dazu?
+## 6.3 Ich erkläre namens der Antragstellerin/des Antragstellers, dass bislang kein weiterer Antrag der Antragstellerin/des Antragstellers auf Gewährungeiner Förderung unter dem Förderprogramm „Ehrenamt gewinnen. Engagement binden. Zivilgesellschaft stärken.“ bewilligt worden ist. Weitere Anträge sind bislang
+- [ ] Gestellt worden
+- [x] nicht gestellt worden
 
-Ja, wie oben beschrieben werden die Workshops und Spielrunden von Ehrenamtlichen organisiert. Wir haben bereits zwei Spielrunden mit geliehenem Equipment veranstaltet und dabei hat sich gezeigt, dass 4-6 Personen eine gut Anzahl ist, damit alle die Geräte zwischendurch benutzen können und sich nicht langweilen.
+## 6.4 Ich erkläre namens der Antragstellerin/des Antragstellers, dass die Antragstellerin/der Antragsteller zum Vorsteuerabzug. gemäß § 15 Umsatzsteuergesetz
+- [ ] berechtigt ist und dies im Finanzplan berücksichtigt wurde
+- [x] nicht berechtigt ist und dies im Finanzplan berücksichtigt wurde
+
+## 6.5 Ich erkläre namens der Antragstellerin/des Antragstellers, dass die Gesamtausgaben der Antragstellerin/des Antragstellers werden überwiegend aus Zuwendungen der öffentlichen Hand bestritten und das Besserstellungsverbot gem. Nr. 1.3 den ANBest-P wird eingehalten:
+- [x] Ja
+- [ ] Nein
+
+## 6.6 Ich erkläre namens der Antragstellerin/des Antragstellers, dass der Antragstellerin/dem Antragsteller im laufenden sowie in den zwei vorangegangenen Steuerjahren De-minimis-Beihilfen im Sinne der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18.12.2013 innerhalb der Bundesrepublik Deutschland gewährt wurden:
+- [ ] Ja
+- [x] Nein
