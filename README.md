@@ -79,8 +79,9 @@ Keinen Ansprechpartner/in ausgewählt
 25 Personen
 
 # 3. Ausgaben- und Finanzierungsplan
-| **Ausgaben**                            |            |          |                                                              |
+|                                         |            |          |                                                              |
 | --------------------------------------- | ---------: | -------- | ------------------------------------------------------------ |
+| **Ausgaben**                            |            |          |                                                              |
 | **3.1 Sachausgaben**                    | 2.346,30 € | 100,00 % |                                                              |
 | Apple iPad Pro 11"                      |   879,00 € |          | https://www.apple.com/de/shop/buy-ipad/ipad-pro              |
 | Apple Pencil 2                          |   135,00 € |          | https://www.apple.com/de/shop/select-apple-pencil            |
