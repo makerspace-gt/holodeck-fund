@@ -9,8 +9,8 @@
 Holodeck
 
 ## 1.4. In welchem Zeitraum soll das Projekt durchgeführt werden?
-- Beginn: 13.06.2022
-- Ende: 12.12.2022
+- Beginn: 04.07.2022
+- Ende: 11.12.2022
 
 ## 1.5. Welchen der beiden Schwerpunkte des Programms verfolgen Sie mit Ihrem Projekt?
 - [ ] Engagement und Ehrenamtsstrukturen stärken
@@ -49,9 +49,9 @@ info@makerspace-gt.de
 http://makerspace-gt.de
 
 ### Beschreibung der Organisation
-Der Makerspace Gütersloh betreibt eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und interessierte Personen dazu sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Unserer Engagierten haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten die sie alleine nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden.
+Der Makerspace Gütersloh betreibt eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und interessierte Personen dazu sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Unserer Engagierten haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten, die sie allein nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Dabei betrachten wir uns als Sharing Community in der wir in unserer ländlichen Region einer großen Zahl Menschen Zugang zu Maschinen, Digitalequipment und gemeinsamen Wissen ermöglichen. Bei uns sind alle willkommen ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden soweit dies möglich ist.
 
-Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen kleinen Bereich mit Sofa, Beamer und Presenter, um Vorträge zu halten oder sich gemütlich zu treffen. Einmal im Monat veranstalten wir ein Repair Café in unserer Stadtbibliothek.
+Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen weiteren Bereich mit Sofa und Beamer, um Vorträge zu halten oder sich gemütlich zu treffen. Einmal im Monat veranstalten wir ein Repair Café in der Stadtbibliothek Gütersloh.
 
 ### 1. Ansprechpartner/in
 Michael Prange (1. Ansprechpartner)
@@ -60,10 +60,10 @@ Michael Prange (1. Ansprechpartner)
 Keinen Ansprechpartner/in ausgewählt
 
 ## 2.2 Bitte geben Sie die zeichnungsberechtigte Person an:
-| Name           | Funktion | Berechtigung                       |
-| -------------- | -------- | ---------------------------------- |
-| Michael Prange | Vorstand | Gemeinsame Vertretungsberechtigung |
-| Uta Rassow     | Vorstand | Gemeinsame Vertretungsberechtigung |
+| Name              | Funktion | Berechtigung                       |
+| ----------------- | -------- | ---------------------------------- |
+| Michael Prange    | Vorstand | Gemeinsame Vertretungsberechtigung |
+| Jens-Peter Kubsch | Vorstand | Gemeinsame Vertretungsberechtigung |
 
 ## 2.3. Bitte geben Sie die Bankverbindung an.
 | Kontoinhaber              | IBAN                        |
@@ -88,6 +88,7 @@ Keinen Ansprechpartner/in ausgewählt
 | Paper like Folie                        |    12,99 € |          | https://smile.amazon.de/dp/B087PCM5M9                        |
 | Hülle                                   |    17,99 € |          | https://smile.amazon.de/dp/B08VRF64LH                        |
 | USB-C Hub                               |    28,99 € |          | https://smile.amazon.de/dp/B07RRPS5NT                        |
+| Laser Entfernungsmesser                 |   177,94 € |          | https://smile.amazon.de/dp/B013WAPAM2                        |
 | gebrauchtes Whiteboard                  |    30,00 € |          |                                                              |
 | gebrauchte Korkwand                     |    20,00 € |          |                                                              |
 | Oculus Quest 2                          |   403,99 € |          | https://www.proshop.de/VR/Oculus-Quest-2-128-GB/2991572      |
@@ -98,26 +99,26 @@ Keinen Ansprechpartner/in ausgewählt
 | Stereolabs ZED 2i Stereo Camera         |   561,36 € |          | https://store.stereolabs.com/products/zed-2i                 |
 | **3.2 Honorarausgaben**                 |     0,00 € | 0,00 %   |                                                              |
 | **3.3 Honorarausgaben mit Werkvertrag** |     0,00 € | 0,00 %   |                                                              |
-| **Gesamtausgaben**                      | 2.346,30 € |          |                                                              |
+| **Gesamtausgaben**                      | 2.524,24 € |          |                                                              |
 |                                         |            |          |                                                              |
 | **Finanzierung**                        |            |          |                                                              |
-| **3.1 Einnahmen**                       |   246,30 € | 10,50 %  |                                                              |
-| Eigenmmittel                            |   246,30 € |          |                                                              |
-| **3.2 Zuwendung DSEE**                  | 2.100,00 € | 89,50 %  |                                                              |
-| **Gesamtfinanzierung**                  | 2.346,30 € |          |                                                              |
+| **3.1 Einnahmen**                       |   324,24 € | 12,85 %  |                                                              |
+| Eigenmmittel                            |   324,24 € |          |                                                              |
+| **3.2 Zuwendung DSEE**                  | 2.200,00 € | 87,15 %  |                                                              |
+| **Gesamtfinanzierung**                  | 2.524,24 € |          |                                                              |
 
 # 4. Beschreibung des Vorhabens
 
 ## 4.1 Bitte fügen Sie eine Kurzbeschreibung zum Projekt ein:
-Wir haben die Vision als nicht-kommerzielle Hightech-Werkstatt die Zivilgesellschaft zu stärken. Bei uns geht es ums Machen, jedoch ist dies ohne eine Planung schnell frustrierend. Das Holodeck soll ein kreativer Arbeitsbereich werden. Whiteboard, Korkwand und iPad helfen dabei die eigenen Gedanken aufzuzeichnen, Objekte 3D zu scannen und erste digitale Prototypen zu erstellen. Es ist eine Ergänzung zur Textil- und Möbelwerkstatt, um ein schnelles designen zu ermöglichen und einen immersiven Eindruck von der eigenen Idee zu bekommen.
+Wir haben die Vision als nicht-kommerzielle Werkstatt die Zivilgesellschaft zu stärken und dieser zu ermöglichen mit neuesten Technologien in Berührung zu kommen. Bei uns geht es ums Machen. Dafür bedarf es einer Planung, damit die Projekte nicht scheitern. Das "Holodeck" soll ein kreativer Arbeitsbereich werden, indem mit neuesten Technologien Projekte geplant und visualisiert werden können um sich mit anderen darüber auszutauschen. Whiteboard, Korkwand und iPad helfen dabei die eigenen Gedanken aufzuzeichnen, Objekte 3D zu scannen, erste digitale Prototypen zu erstellen. Es ist eine Ergänzung zu den bisherigen Werkstattbereichen, um ein schnelles Designen zu ermöglichen und mit Augmented Reality einen immersiven Eindruck von der eigenen Idee zu bekommen, bevor diese gefertigt wird. Über die Anschaffung eines Virtual-Reality-Headsets ermöglichen wir in unserem Space einen Einstieg in die Entwicklung digitaler Welten und 3D Spiele für alle, die sonst keinen Zugang zu diesen Technologien haben.
 
-Wir möchten damit für all jene Engagierten und Interessierten attraktiv werden, die das klassische Handwerk mit dem digitalen Zeitalter verbinden möchten um einfach kreativ zu werden und etwas zu erschaffen.
+Mit dem Projekt möchten wir unseren Verein Fit für die digitale Zukunft machen und stärken somit unsere vorhandenen Strukturen, welche sich bisher mehr auf Handwerk konzentriert haben. Wir möchten damit für all jene Engagierten und Interessierten attraktiv werden, die das klassische Handwerk mit dem digitalen Zeitalter verbinden möchten um einfach kreativ zu werden und etwas zu erschaffen. Insbesondere wollen wir Menschen außerhalb des Vereins ansprechen, wie Schulen, Künstler, Vereine, Geflüchtete und sozial Benachteiligte, um auf das "Holodeck" aufmerksam zu machen und die Möglichkeiten damit ehrenamtliches Engagement zu zeigen, weil die Mittel zur Planung und Umsetzung in unserem Makerspace vorhanden sind und genutzt werden können. Weiterhin stärken wir mit den zusätzlichen Möglichkeiten durch die Förderung die Bindung unserer bisherigen ehrenamtlich Engagierten an den Verein, da die Organisations- und Öffentlichkeitsarbeit damit erleichtert wird.
 
 ## 4.2 Welche Ziele wollen Sie mit dem Projekt erreichen?
-1. Einrichtung einer kreativen Arbeitsumgebung mit Möglichkeiten für VR, AR & MR
+1. Einrichtung einer kreativen Arbeitsumgebung mit Möglichkeiten für VR & AR
 2. Innovative Nachwuchsgewinnung für die Makerszene von den zwei Seiten
    - klassische Handwerker, welche die Vorzüge digitaler Planung noch nicht erlebt haben
-   - Digital-Natives, welche sich nicht zutrauen selbst etwas zu bauen
+   - Digital-Natives, welche sich nicht zutrauen selbst etwas zu bauen oder selber nicht den Zugang zu den benötigten Mitteln haben
 3. Fit machen des Vereins für die Arbeit mit digitalen Werkzeugen bei der Veranstaltungsorganisation und Öffentlichkeitsarbeit
 
 ## 4.3 Mit welchen Maßnahmen wollen Sie die Ziele erreichen?
@@ -125,12 +126,12 @@ Wir möchten damit für all jene Engagierten und Interessierten attraktiv werden
 - Veranstalten von Workshops zu den Themen
   - Arbeiten mit Digitalen Werkzeugen
   - Einsetzen von Kreativitätstechniken
-- Etablieren einer monatlichen VR Spielerunde als niederschwellige und regelmäßige Einstiegsmöglichkeit
-- Kontakt zu Schulen, Künstlern, Vereinen und Geflüchteten herstellen, um auf die Möglichkeiten des Holodecks hinzuweisen
-- Einrichten unserer Nextcloud für die Organisation und Öffentlichkeitsarbeit
+- Etablieren einer monatlichen VR Kennenlernrunde als niederschwellige und regelmäßige Einstiegsmöglichkeit
+- Kontakt zu Schulen, Künstlern, Vereinen, Geflüchteten und sozial Benachteiligten herstellen, um auf die Möglichkeiten des "Holodecks" hinzuweisen
+- Einrichten unserer Nextcloud für die Organisations- und Öffentlichkeitsarbeit
 
 ## 4.4 In welcher Form sind Ehrenamtliche in die Durchführung des Projekts eingebunden?
-Die Vereinsmitglieder beraten gemeinsam, wie die Geräte am besten eingerichtet werden können, damit sie dauerhaft in einem "ready to use" Zustand sind. Anschließend werden weitere Interessierte mit den Geräten vertraut gemacht. So baut sich nach und nach eine immer größer werdende Gruppe auf, welche die Workshops und die regelmäßigen Spielerunden als Mitmachaktionen organisieren.
+Die Vereinsmitglieder beraten gemeinsam, wie die Geräte am besten eingerichtet werden können, damit sie dauerhaft in einem "ready to use" Zustand sind. Anschließend werden weitere Interessierte mit den Geräten vertraut gemacht. So baut sich nach und nach eine immer größer werdende Gruppe auf, welche die Workshops und die regelmäßigen Kennenlernrunden als Mitmachaktionen organisieren.
 
 Um eine Demotivation der Ehrenamtlichen zu vermeiden gelten bei uns zwei Leitsprüche:
 1. "Wer macht hat Recht" und darf nur von anderen kritisiert werden die mitmachen
@@ -149,12 +150,12 @@ Um eine Demotivation der Ehrenamtlichen zu vermeiden gelten bei uns zwei Leitspr
 - [ ] Menschen mit Migrationsgeschichte
 - [ ] Menschen mit Behinderung
 - [x] Bildungsbenachteiligte
-- [x] Sonstige: Personen, die sich kreativ, kritisch oder spielerisch mit VR, AR und MR auseinander setzen wollen.
+- [x] Sonstige: Personen, die sich kreativ, kritisch oder spielerisch mit VR und AR auseinander setzen wollen.
 
 ## 4.7 Richten Sie sich mit Ihrem Projekt an Personengruppen, die einen erschwerten Zugang zum Engagement haben?
 - [ ] Ja
-- [ ] Teilweise
-- [x] Nein
+- [x] Teilweise
+- [ ] Nein
 
 ## 4.8 In welchem Themenbereich engagieren sich die Ehrenamtlichen Ihrer Organisation?
 - [x] Außerschulische Jugend- oder Bildungsarbeit für Erwachsene
