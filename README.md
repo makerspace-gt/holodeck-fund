@@ -9,7 +9,7 @@
 Holodeck
 
 ## 1.4. In welchem Zeitraum soll das Projekt durchgeführt werden?
-- Beginn: 04.07.2022
+- Beginn: 11.07.2022
 - Ende: 11.12.2022
 
 ## 1.5. Welchen der beiden Schwerpunkte des Programms verfolgen Sie mit Ihrem Projekt?
@@ -110,15 +110,16 @@ Keinen Ansprechpartner/in ausgewählt
 # 4. Beschreibung des Vorhabens
 
 ## 4.1 Bitte fügen Sie eine Kurzbeschreibung zum Projekt ein:
-Wir haben die Vision als nicht-kommerzielle Werkstatt die Zivilgesellschaft zu stärken und dieser zu ermöglichen mit neuesten Technologien in Berührung zu kommen. Bei uns geht es ums Machen. Dafür bedarf es einer Planung, damit die Projekte nicht scheitern. Das "Holodeck" soll ein kreativer Arbeitsbereich werden, indem mit neuesten Technologien Projekte geplant und visualisiert werden können um sich mit anderen darüber auszutauschen. Whiteboard, Korkwand und iPad helfen dabei die eigenen Gedanken aufzuzeichnen, Objekte 3D zu scannen, erste digitale Prototypen zu erstellen. Es ist eine Ergänzung zu den bisherigen Werkstattbereichen, um ein schnelles Designen zu ermöglichen und mit Augmented Reality einen immersiven Eindruck von der eigenen Idee zu bekommen, bevor diese gefertigt wird. Über die Anschaffung eines Virtual-Reality-Headsets ermöglichen wir in unserem Space einen Einstieg in die Entwicklung digitaler Welten und 3D Spiele für alle, die sonst keinen Zugang zu diesen Technologien haben.
+Unsere Vision ist es als moderne, offene und gemeinnützige Werkstatt die Zivilgesellschaft zu stärken. Bei uns geht es ums Machen. Das Holodeck wird ein kreativer Arbeitsbereich mit Whiteboard, iPad und VR-Headset zum Planen von Ideen, 3D-Scannen von Objekten und Erstellen digitaler Prototypen. Wir ermöglichen damit ein schnelles Designen und einen immersiven Eindruck von der eigenen Idee zu bekommen, bevor es in die Werkstatt geht. Alle hier im ländlichen Raum sollen Zugang zu VR-Technologien haben um sich kreativ und kritisch damit zu befassen und diese selbst zu gestalten.
 
-Mit dem Projekt möchten wir unseren Verein Fit für die digitale Zukunft machen und stärken somit unsere vorhandenen Strukturen, welche sich bisher mehr auf Handwerk konzentriert haben. Wir möchten damit für all jene Engagierten und Interessierten attraktiv werden, die das klassische Handwerk mit dem digitalen Zeitalter verbinden möchten um einfach kreativ zu werden und etwas zu erschaffen. Insbesondere wollen wir Menschen außerhalb des Vereins ansprechen, wie Schulen, Künstler, Vereine, Geflüchtete und sozial Benachteiligte, um auf das "Holodeck" aufmerksam zu machen und die Möglichkeiten damit ehrenamtliches Engagement zu zeigen, weil die Mittel zur Planung und Umsetzung in unserem Makerspace vorhanden sind und genutzt werden können. Weiterhin stärken wir mit den zusätzlichen Möglichkeiten durch die Förderung die Bindung unserer bisherigen ehrenamtlich Engagierten an den Verein, da die Organisations- und Öffentlichkeitsarbeit damit erleichtert wird.
+Wir werden damit attraktiv für Engagierte und Interessierte, die das klassische Handwerk mit dem Digitalen verbinden wollen oder sich für virtuelle Welten begeistern.
 
 ## 4.2 Welche Ziele wollen Sie mit dem Projekt erreichen?
 1. Einrichtung einer kreativen Arbeitsumgebung mit Möglichkeiten für VR & AR
-2. Innovative Nachwuchsgewinnung für die Makerszene von den zwei Seiten
+2. Innovative Nachwuchsgewinnung für die Makerszene von den drei Seiten
    - klassische Handwerker, welche die Vorzüge digitaler Planung noch nicht erlebt haben
-   - Digital-Natives, welche sich nicht zutrauen selbst etwas zu bauen oder selber nicht den Zugang zu den benötigten Mitteln haben
+   - Digital-Natives, welche sich nicht zutrauen selbst etwas zu bauen
+   - sozial Benachteiligte die nicht den Zugang zu den benötigten Maschinen und Werkzeugen haben
 3. Fit machen des Vereins für die Arbeit mit digitalen Werkzeugen bei der Veranstaltungsorganisation und Öffentlichkeitsarbeit
 
 ## 4.3 Mit welchen Maßnahmen wollen Sie die Ziele erreichen?
@@ -127,7 +128,7 @@ Mit dem Projekt möchten wir unseren Verein Fit für die digitale Zukunft machen
   - Arbeiten mit Digitalen Werkzeugen
   - Einsetzen von Kreativitätstechniken
 - Etablieren einer monatlichen VR Kennenlernrunde als niederschwellige und regelmäßige Einstiegsmöglichkeit
-- Kontakt zu Schulen, Künstlern, Vereinen, Geflüchteten und sozial Benachteiligten herstellen, um auf die Möglichkeiten des "Holodecks" hinzuweisen
+- Kontakt zu Schulen, Künstlern, Vereinen, Geflüchteten und sozial Benachteiligten herstellen, um auf die Möglichkeiten des Holodecks hinzuweisen
 - Einrichten unserer Nextcloud für die Organisations- und Öffentlichkeitsarbeit
 
 ## 4.4 In welcher Form sind Ehrenamtliche in die Durchführung des Projekts eingebunden?
